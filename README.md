@@ -30,9 +30,6 @@ full plan, research tables and open design decisions.)*
 | Optional | Tensura RPG System | Its skill equipping can be restricted independently |
 | Optional | Tensura: Iron's Spells (official integration) | Overlap analysis is an open issue on this repository |
 
-When the first alpha ships, drop the jar in `mods/` alongside its required
-dependencies.
-
 ## Credits
 - Built on [NeoForge](https://neoforged.net/).
 - Integrates [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spellbooks)
