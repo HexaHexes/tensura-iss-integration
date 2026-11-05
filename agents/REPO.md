@@ -25,6 +25,8 @@ restrict native Tensura and Tensura RPG System skill equipping.
 - This repo will consume `tensura-ability-core` from GitHub Packages with the
   org secret `PACKAGE_READ_TOKEN`, injected scoped to the Gradle step only.
 
+**Release plan:** [docs/release-plan.md](https://github.com/HexaHexes/ability-core/blob/main/docs/release-plan.md) - the release train, per-repo checklist, core-before-consumers sequencing and ALPHA_RELEASES state (hub: ability-core).
+
 **Test:** `./gradlew runGameTestServer` - `TensuraIssIntegrationGameTests` (1 test). `expectedTests = 1`
 in `build.gradle` must match the `@GameTest` count.
 
