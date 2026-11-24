@@ -6,8 +6,8 @@ and pulled in verbatim - **never hand-edit it.** Everything in this file is this
 repo's own and is edited freely; keep it aligned with the org rules rather than
 restating them.
 
-**Repo:** `HexaHexes/tensura-iss-integration` - **Mod ID:** `tensura_iss_integration` - **Branch:** `main`
-**Platform:** Minecraft 1.21.1 / NeoForge 21.1.259 / JDK 21 - **Jar:** `build/libs/tensura_iss_integration-<version>.jar`
+**Repo:** `HexaHexes/tensura-iss-integration` · **Mod ID:** `tensura_iss_integration` · **Branch:** `neoforge-1.21.1` (the loader line; this is the default branch - no `main`)
+**Platform:** Minecraft 1.21.1 / NeoForge 21.1.259 / JDK 21 · **Jar:** `build/libs/tensura_iss_integration-neoforge-1.21.1-<version>.jar`
 
 Integrates Tensura: Reincarnated with Iron's Spells 'n Spellbooks: replaces
 Tensura staves and grimoires with Iron's Spells equivalents across acquisition
